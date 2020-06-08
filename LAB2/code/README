@@ -1,0 +1,11 @@
+--Lab2 Internet--
+
+I file utilizzati per disegnare i grafici sono stati divisi nelle due directories "client" e "server".
+In ciascuna di esse sono stati inclusi i file "client" e "server" generati ed esportati con wireshark.
+I file "client.sh" e "server.sh" una volta eseguiti permettono di dividere le colonne dei file sovracitati in piu file,
+per poi essere uniti e creare i file "client.dat" e "server.dat", i quali conterranno i dati utili senza l'intestazione di wireshark.
+
+La cartella plot contenuta sia in "client" che in "server" contiene gli script necessari a generare i grafici desiderati.
+In particolare ognuno di questi file specifica nel nome, la sorgente (client o server), un campo di cui osservarne l'evoluzione nel tempo (ACK, WIN ...) e il metodo di visualizzazione del grafico (lines o points).
+Tali script possono essere eseguiti con il software GnuPlot utilizzando il comando load "[NOME_FILE]".
+

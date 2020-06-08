@@ -1,0 +1,520 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Debian) (preloaded format=pdflatex 2019.6.11)  28 JUL 2019 09:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Relazione_internet_chargen.tex
+(./Relazione_internet_chargen.tex
+LaTeX2e <2018-04-01> patch level 4
+Babel <3.20> and hyphenation patterns for 6 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/05/02 3.20 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/05/02 3.20 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/05/02 3.20 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\it@lettering=\count90
+\it@doublequoteactive=\count91
+\it@ISOcompliance=\count92
+))
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count93
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count94
+\Gm@cntv=\count95
+\c@Gm@tempcnt=\count96
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2017/03/19 v3.3-145 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/04/15 v1.7-167 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+\c@ContinuedFloat=\count97
+)
+\c@subfigure=\count98
+\c@subtable=\count99
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count101
+\lst@gtempboxa=\box28
+\lst@token=\toks18
+\lst@length=\count102
+\lst@currlwidth=\dimen121
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen122
+\lst@width=\dimen123
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen124
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(./Relazione_internet_chargen.aux
+
+LaTeX Warning: Label `client_ack' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+
+LaTeX Warning: Label `eth' multiply defined.
+
+)
+\openout1 = `Relazione_internet_chargen.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Info: Redefining \it@ocap on input line 39.
+LaTeX Info: Redefining \it@ccap on input line 39.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 39.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen126
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79135pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=85.35826pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count115
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 46.
+<logo_poli.png, id=1, 1027.84pt x 1027.84pt>
+File: logo_poli.png Graphic file (type png)
+<use logo_poli.png>
+Package pdftex.def Info: logo_poli.png  used on input line 46.
+(pdftex.def)             Requested size: 71.13188pt x 71.12492pt.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./logo_poli.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--76
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+<client_ack_lines.png, id=17, 669.50125pt x 340.27126pt>
+File: client_ack_lines.png Graphic file (type png)
+<use client_ack_lines.png>
+Package pdftex.def Info: client_ack_lines.png  used on input line 96.
+(pdftex.def)             Requested size: 307.9028pt x 156.49014pt.
+<client_win_lines.png, id=18, 669.50125pt x 342.27875pt>
+File: client_win_lines.png Graphic file (type png)
+<use client_win_lines.png>
+Package pdftex.def Info: client_win_lines.png  used on input line 104.
+(pdftex.def)             Requested size: 306.10483pt x 156.49014pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<client_win_lines_zoom.png, id=19, 669.50125pt x 339.2675pt>
+File: client_win_lines_zoom.png Graphic file (type png)
+<use client_win_lines_zoom.png>
+Package pdftex.def Info: client_win_lines_zoom.png  used on input line 111.
+(pdftex.def)             Requested size: 308.812pt x 156.49014pt.
+[2 <./client_ack_lines.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
+
+ []
+
+[3 <./client_win_lines.png> <./client_win_lines_zoom.png>]
+<client_wireshark_speed.png, id=29, 831.105pt x 381.425pt>
+File: client_wireshark_speed.png Graphic file (type png)
+<use client_wireshark_speed.png>
+Package pdftex.def Info: client_wireshark_speed.png  used on input line 129.
+(pdftex.def)             Requested size: 309.97694pt x 142.26378pt.
+<client_ack_point.png, id=30, 667.49374pt x 344.28625pt>
+File: client_ack_point.png Graphic file (type png)
+<use client_ack_point.png>
+Package pdftex.def Info: client_ack_point.png  used on input line 141.
+(pdftex.def)             Requested size: 213.39568pt x 110.06352pt.
+<server_seq_point.png, id=31, 666.49pt x 342.27875pt>
+File: server_seq_point.png Graphic file (type png)
+<use server_seq_point.png>
+Package pdftex.def Info: server_seq_point.png  used on input line 145.
+(pdftex.def)             Requested size: 213.39568pt x 109.58888pt.
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 140--148
+[]$[]$ $[]$ 
+ []
+
+[4 <./client_wireshark_speed.png> <./client_ack_point.png> <./server_seq_point.
+png>]
+<head_ethernet.png, id=39, 702.625pt x 124.465pt>
+File: head_ethernet.png Graphic file (type png)
+<use head_ethernet.png>
+Package pdftex.def Info: head_ethernet.png  used on input line 166.
+(pdftex.def)             Requested size: 426.79135pt x 75.60446pt.
+ [5 <./head_ethernet.png>]
+<client_seq_point.png, id=44, 669.50125pt x 337.26pt>
+File: client_seq_point.png Graphic file (type png)
+<use client_seq_point.png>
+Package pdftex.def Info: client_seq_point.png  used on input line 182.
+(pdftex.def)             Requested size: 192.0548pt x 96.74792pt.
+<client_pay_point.png, id=45, 635.37375pt x 280.04625pt>
+File: client_pay_point.png Graphic file (type png)
+<use client_pay_point.png>
+Package pdftex.def Info: client_pay_point.png  used on input line 186.
+(pdftex.def)             Requested size: 234.73654pt x 103.46164pt.
+
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 181--189
+[]$[]$ $[]$ 
+ []
+
+[6 <./client_seq_point.png> <./client_pay_point.png>] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 276--279
+
+ []
+
+[8] [9] [10]
+<client_seq_lines.png, id=65, 669.50125pt x 342.27875pt>
+File: client_seq_lines.png Graphic file (type png)
+<use client_seq_lines.png>
+Package pdftex.def Info: client_seq_lines.png  used on input line 412.
+(pdftex.def)             Requested size: 320.0935pt x 163.64952pt.
+<client_pay_lines.png, id=66, 635.37375pt x 276.03125pt>
+File: client_pay_lines.png Graphic file (type png)
+<use client_pay_lines.png>
+Package pdftex.def Info: client_pay_lines.png  used on input line 419.
+(pdftex.def)             Requested size: 320.0935pt x 139.06404pt.
+<client_win_point.png, id=67, 669.50125pt x 341.275pt>
+File: client_win_point.png Graphic file (type png)
+<use client_win_point.png>
+Package pdftex.def Info: client_win_point.png  used on input line 426.
+(pdftex.def)             Requested size: 320.0935pt x 163.16962pt.
+<server_ack_lines.png, id=68, 666.49pt x 340.27126pt>
+File: server_ack_lines.png Graphic file (type png)
+<use server_ack_lines.png>
+Package pdftex.def Info: server_ack_lines.png  used on input line 434.
+(pdftex.def)             Requested size: 320.0935pt x 163.4218pt.
+ [11 <./client_seq_lines.png> <./client_pay_lines.png> <./client_win_point.png>
+]
+<server_ack_point.png, id=75, 666.49pt x 342.27875pt>
+File: server_ack_point.png Graphic file (type png)
+<use server_ack_point.png>
+Package pdftex.def Info: server_ack_point.png  used on input line 441.
+(pdftex.def)             Requested size: 320.0935pt x 164.38593pt.
+<server_seq_lines.png, id=76, 666.49pt x 341.275pt>
+File: server_seq_lines.png Graphic file (type png)
+<use server_seq_lines.png>
+Package pdftex.def Info: server_seq_lines.png  used on input line 448.
+(pdftex.def)             Requested size: 320.0935pt x 163.90387pt.
+<server_win_point.png, id=77, 666.49pt x 341.275pt>
+File: server_win_point.png Graphic file (type png)
+<use server_win_point.png>
+Package pdftex.def Info: server_win_point.png  used on input line 455.
+(pdftex.def)             Requested size: 320.0935pt x 163.90387pt.
+ [12 <./server_ack_lines.png> <./server_ack_point.png> <./server_seq_lines.png>
+]
+<server_win_lines.png, id=85, 666.49pt x 340.27126pt>
+File: server_win_lines.png Graphic file (type png)
+<use server_win_lines.png>
+Package pdftex.def Info: server_win_lines.png  used on input line 462.
+(pdftex.def)             Requested size: 320.0935pt x 163.4218pt.
+<server_pay_points.png, id=86, 666.49pt x 343.2825pt>
+File: server_pay_points.png Graphic file (type png)
+<use server_pay_points.png>
+Package pdftex.def Info: server_pay_points.png  used on input line 469.
+(pdftex.def)             Requested size: 320.0935pt x 164.868pt.
+<server_pay_lines.png, id=87, 666.49pt x 345.29pt>
+File: server_pay_lines.png Graphic file (type png)
+<use server_pay_lines.png>
+Package pdftex.def Info: server_pay_lines.png  used on input line 476.
+(pdftex.def)             Requested size: 320.0935pt x 165.83214pt.
+ [13 <./server_win_point.png> <./server_win_lines.png> <./server_pay_points.png
+>] [14 <./server_pay_lines.png>]
+(./Relazione_internet_chargen.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5814 strings out of 494538
+ 84803 string characters out of 6176386
+ 344957 words of memory out of 5000000
+ 9383 multiletter control sequences out of 15000+600000
+ 9792 words of font info for 35 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 42i,14n,43p,1231b,1594s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Relazione_internet_chargen.pdf (15 pages, 681025 bytes).
+PDF statistics:
+ 122 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
